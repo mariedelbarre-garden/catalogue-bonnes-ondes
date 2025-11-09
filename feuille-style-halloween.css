@@ -33,7 +33,9 @@ nav {
   color: #FEEFE7;
   display: flex;
   justify-content: center; 
+  flex-wrap: wrap;
   padding: 10px;
+  gap: 1em;
 }
 
 nav li {
@@ -42,7 +44,7 @@ nav li {
 }
 
 nav a {
-  padding: 40px;
+  padding: 10px 20px;
   color: #FEEFE7;
   text-decoration: none;
 }
@@ -76,7 +78,6 @@ border-radius: 10px;
 .phraseaccueil {
    text-align: center;
 }
-
 .phraseintro {
   color:  #FAB68F;
   margin: 40px 0 40px 0;

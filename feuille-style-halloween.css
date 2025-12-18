@@ -1,3 +1,4 @@
+
 body {
   font-family: Apple Chancery;
   line-height: 1.6;
@@ -86,4 +87,12 @@ border-radius: 10px;
 .phraseintro-section {
   color:  #FAB68F;
   margin: 40px 0 40px 0;
+}
+
+.csl-bib-body {
+line-height: 1.35;
+}
+
+.csl-entry {
+margin-bottom: 1em;
 }
